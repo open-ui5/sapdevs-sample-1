@@ -1,7 +1,7 @@
 {
-  "host": "hxe.nl4b.com",
-  "port": 39041,
-  "user": "XSA_DEV",
-  "dbn" : "HXE",
+  "host": "hxe.fexs.com",
+  "port": 39015,
+  "user": "SYSTEM",
+  "databaseName" : "HXE",
   "password": "Bergweg24"
 }
