@@ -1,7 +1,7 @@
 {
   "host": "hxe.fexs.com",
-  "port": 39015,
-  "user": "SYSTEM",
+  "port": 39013,
+  "user": "XSA_ADMIN",
   "dbn" : "SYSTEMDB",
   "password": "Bergweg24"
 }
