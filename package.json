@@ -1,5 +1,5 @@
 {
-  "name": "sapdevs-sample-1",
+  "name": "sapdevs_sample_1",
   "version": "1.0.0",
   "description": "Sample Node Application",
   "main": "app.js",
@@ -14,23 +14,29 @@
     "url": "git+https://github.com/open-ui5/sapdevs-sample-1.git"
   },
   "keywords": [
-    "sample",
-    "demo",
-    "hdb"
+    "sap",
+    "hana",
+    "database",
+    "in-memory",
+    "hdb",
+    "express",
+    "google",
+    "app engine",
+    "gcp",
+    "gae"
   ],
   "author": "Robert Eijpe",
-  "license": "Apache-2.0",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/open-ui5/sapdevs-sample-1/issues"
   },
   "homepage": "https://github.com/open-ui5/sapdevs-sample-1#readme",
   "dependencies": {
-    "async": "^2.5.0",
-    "express": "^4.15.3",
-    "hdb": "^0.12.4"
+    "async": "^2.1.5",
+    "express": "^4.15.2",
+    "hdb": "^0.12.1"
   },
   "engines": {
     "node": ">=4.3.2"
   }
-  
 }
