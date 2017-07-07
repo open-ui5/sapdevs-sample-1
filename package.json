@@ -19,13 +19,14 @@
     "hdb"
   ],
   "author": "Robert Eijpe",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/open-ui5/sapdevs-sample-1/issues"
   },
   "homepage": "https://github.com/open-ui5/sapdevs-sample-1#readme",
   "dependencies": {
     "async": "^2.5.0",
+    "express": "^4.15.3",
     "hdb": "^0.12.4"
   }
 }
